@@ -1,0 +1,10 @@
+.head{
+    background-color:black;
+    color: white;
+}
+.first{
+    display: inline;
+    font-size: 35px;
+    margin: 2px;
+    text-decoration: underline;
+}
